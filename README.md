@@ -13,7 +13,8 @@ I can't connect Laravel and Vue js so apologies for that thing
 </p>
 <h4>After Download What you doing</h4>
 <p>
-    You need to  <b>Composer Update</b>  and then update all packages project should run <b>npm install</b>  <b>npm run dev</b>
+    You need to  <b>Composer Update</b>  and then update all packages project should run <b>npm install</b> and <b>npm run dev</b>
+
 </p>
 
 
